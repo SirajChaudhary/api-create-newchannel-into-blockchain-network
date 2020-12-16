@@ -12,3 +12,5 @@ Query Params : \
 channelName = E.g. businesschannel \
 networkPath = E.g. /home/ubuntu/fabric-samples/test-network \
 Note : In my case I have created a channel for test-network and my network path is /home/ubuntu/fabric-samples/test-network. Please modify this input param as per your network path.
+
+![image](https://user-images.githubusercontent.com/76120970/102392100-a48dd880-3ffc-11eb-9044-55961ab3a4d7.png)

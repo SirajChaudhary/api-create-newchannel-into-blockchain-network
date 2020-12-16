@@ -1,4 +1,4 @@
-## This API (spring boot microservice) creates a new channel into our hyperlegder fabric blockchain network
+## The API (spring boot microservice) creates a new channel into our hyperlegder fabric blockchain network
 
 #### HowTo Steps
 Step1 : Clone and Import the code into your Eclipse IDE \

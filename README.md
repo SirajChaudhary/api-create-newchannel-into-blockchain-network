@@ -1,7 +1,7 @@
 # api-create-newchannel-into-blockchain-network
 ## The API creates a new channel into your hyperlegder fabric blockchain network.
 
-## HowTo Steps
+#### HowTo Steps
 Step1 : Clone and Import the code into your Eclipse IDE \
 Step2 : Run ApiCreateNewchannelIntoBlockchainNetworkApplication.java \
 Step3 : Call the service from postman client (or any other rest client or GUI) \

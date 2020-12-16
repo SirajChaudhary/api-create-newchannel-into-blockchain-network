@@ -16,8 +16,18 @@ note : In my case I have created a channel for test-network and my network path 
 
 
 ![image](https://user-images.githubusercontent.com/76120970/102392100-a48dd880-3ffc-11eb-9044-55961ab3a4d7.png)
-  
-  
-  
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 ****Crosscheck the channel "businesschannel" is created in the blockchain network****
 ![image](https://user-images.githubusercontent.com/76120970/102396168-1288ce80-4002-11eb-880f-5f628e66bdad.png)

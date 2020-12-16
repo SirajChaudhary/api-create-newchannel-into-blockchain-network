@@ -1,4 +1,4 @@
-## The API creates a new channel into your hyperlegder fabric blockchain network.
+## This API (Spring Boot Microservice) creates a new channel into your hyperlegder fabric blockchain network.
 
 #### HowTo Steps
 Step1 : Clone and Import the code into your Eclipse IDE \

@@ -10,7 +10,7 @@ Example\
 ****Query Params****\
 channelName = E.g. businesschannel \
 networkPath = E.g. /home/ubuntu/fabric-samples/test-network\
-****Method :**** POST\
+****Method :**** POST
 
 Note : In my case I have created a channel for test-network and my network path is /home/ubuntu/fabric-samples/test-network. Please modify this input param as per your network path.
 
